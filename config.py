@@ -174,7 +174,7 @@ SUBSCRIPTION_PAGING = 5  # Número de pagamentos por página no histórico
 # ========================================
 # CONFIGURAÇÕES DE PROXY
 # ========================================
-PROXY_ENABLED = True
+PROXY_ENABLED = False
 PROXY_HOST = "brd.superproxy.io"
 PROXY_PORT = 33335
 PROXY_USER = "brd-customer-hl_637dc23c-zone-isp_proxy1-country-br"
